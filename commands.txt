@@ -1,0 +1,3 @@
+﻿python main.py one-move input2.txt computer-next 4
+
+python main.py interactive input2.txt human-next 2
