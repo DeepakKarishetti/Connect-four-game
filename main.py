@@ -1,3 +1,9 @@
+"""
+CSCI-404A
+Deepak Rajasekhar Karishetti
+CSM
+"""
+
 #Import the class from file connect4game.py
 from connect4game import connect4game
 import sys
